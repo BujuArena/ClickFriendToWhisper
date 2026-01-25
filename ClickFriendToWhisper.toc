@@ -6,3 +6,5 @@
 ## LoadWith: Blizzard_Minimap
 
 ClickFriendToWhisper.lua
+
+## X-Curse-Project-ID: 1346544
