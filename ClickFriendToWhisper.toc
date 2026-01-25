@@ -1,4 +1,4 @@
-## Interface: 110200, 110205, 50500, 50501, 40402, 30405, 30403, 20505, 11507
+## Interface: 110200, 110205, 50500, 50501, 40402, 30405, 30403, 20505, 11507, 120000, 120001
 ## Title: ClickFriendToWhisper
 ## Notes: Enables clicking a friend in the friends list to whisper them
 ## Author: BujuArena
