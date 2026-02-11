@@ -23,6 +23,8 @@
 		"FRIENDS_BUTTON_TYPE_BNET",
 		"FriendsFrame_ShowBNDropdown",
 		"ChatEdit_ActivateChat",
-		"FriendsFrameSendMessageButton_OnClick"
+		"FriendsFrameSendMessageButton_OnClick",
+		"FriendsFrame",
+		"FriendsFrameSendMessageButton"
 	]
 }

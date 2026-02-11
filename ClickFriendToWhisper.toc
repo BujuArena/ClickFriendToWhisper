@@ -3,8 +3,6 @@
 ## Notes: Enables clicking a friend in the friends list to whisper them
 ## Author: BujuArena
 ## OptionalDeps: BetterFriendlist
-## Dependencies: Blizzard_Minimap
-## LoadWith: Blizzard_Minimap
 
 ClickFriendToWhisper.lua
 
